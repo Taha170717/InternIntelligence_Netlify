@@ -1,16 +1,46 @@
-# netlify
+# 🎬 Netlify - A Netflix-inspired Movie App  
 
-A new Flutter project.
+Netlify is a **Flutter-based** Movie App inspired by the sleek user experience of **Netflix**. This app utilizes **TMDb API** to fetch and display movie recommendations, genres, and detailed movie information in an interactive way.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+1. **Genre-Based Movie Browsing**:  
+   View movies categorized by genres such as Action, Comedy, Horror, and more.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Interactive UI with Animations**:  
+   - Gradient backgrounds with dynamic color changes.  
+   - Parallax effects in the movie detail page.  
+   - Glassmorphic design elements, including movie cards and review sections.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. **Movie Detail View**:  
+   - Display detailed movie information like description, genres, and ratings.  
+   - Includes user-generated movie reviews.
+
+4. **Search Functionality**:  
+   Quickly search for movies by titles.
+
+5. **Responsive Design**:  
+   Smooth transitions and optimal layout for different device sizes.
+
+---
+
+## 💻 Technologies Used
+
+- **Flutter**: For building the cross-platform app.
+- **Dart**: For implementing UI and business logic.
+- **TMDb API**: For fetching real-time movie data.
+- **Provider**: For smooth state management.
+- **http**: For making network requests to the API.
+
+---
+
+## 🌐 API Used
+
+This app leverages the **[TMDb API](https://developers.themoviedb.org/3)**:  
+- Fetches movie recommendations and details.  
+- If you don't have an API key, you can create one [here](https://www.themoviedb.org/account/signup).
+
+---
+
