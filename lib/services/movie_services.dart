@@ -15,7 +15,7 @@ class MovieService {
       List<dynamic> movieList = jsonData['results'];
       return movieList.map((data) => Movie.fromJson(data)).toList();
     } else {
-      throw Exception('Failed to load recommended movies');
+      throw Exception('Failed to load recommended movies From API');
     }
   }
 
