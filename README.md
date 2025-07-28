@@ -6,9 +6,9 @@ Netlify is a **Flutter-based** Movie App inspired by the sleek user experience o
 
 ## 📽️ Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch Demo](https://github.com/user-attachments/assets/7617700c-f50e-4e04-8bba-10e9feb9b854)](https://github.com/user-attachments/assets/7617700c-f50e-4e04-8bba-10e9feb9b854)
 
-Click the image above to watch a quick demo of the app!
+> 🔗 Click the image above to **watch the app demo** (MP4 file hosted on GitHub).
 
 ---
 
